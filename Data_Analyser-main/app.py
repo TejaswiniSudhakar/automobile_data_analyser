@@ -13,7 +13,6 @@ PAGES = {
 
 }
 
-st.image("auto-ra-banner.jpg")
 if s == True:
     selection = st.selectbox("Choose one", list(PAGES.keys()), key ='2')
     Home.app()

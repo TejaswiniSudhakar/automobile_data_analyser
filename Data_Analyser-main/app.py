@@ -12,8 +12,8 @@ PAGES = {
     "Dashboard": Dashboard,
 
 }
-
-st.image("auto-ra-banner.png")
+image = Image.open('auto-ra-banner.png')
+st.image(image)
 if s == True:
     selection = st.selectbox("Choose one", list(PAGES.keys()), key ='2')
     Home.app()

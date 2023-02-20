@@ -2,4 +2,5 @@ pandas==1.1.5
 streamlit
 numpy==1.19.5
 plotly==4.14.3
+protobuf~=3.19.0
 typing_extensions

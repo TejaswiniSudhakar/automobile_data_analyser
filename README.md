@@ -31,8 +31,9 @@ This visualization web app has a bundle of features
 
 # How to run the app
 1. Clone this repo.
-2. Install all requirements using: <br> ```pip install -r requirements.txt``` <br> 
-3. From the terminal within the directory: <br> ```streamlit run app.py```
+2. Change directory using: <br> ```cd Data_Analyser-main``` <br>
+3. Install all requirements using: <br> ```pip install -r requirements.txt``` <br> 
+4. From the terminal within the directory: <br> ```streamlit run app.py```
 
 <br>
 

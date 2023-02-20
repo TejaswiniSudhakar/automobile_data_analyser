@@ -2,6 +2,7 @@ import streamlit as st
 import Home
 import Visualization
 import Dashboard
+from PIL import Image
 
 
 st.set_page_config(layout="wide")

@@ -2,6 +2,7 @@ import streamlit as st
 import Home
 import Visualization
 import Dashboard
+import Query
 from PIL import Image
 
 

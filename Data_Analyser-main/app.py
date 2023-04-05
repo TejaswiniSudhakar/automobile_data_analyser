@@ -11,7 +11,7 @@ PAGES = {
     "Home": Home,
     "Visualizer": Visualization,
     "Dashboard": Dashboard,
-
+    "Query": Query,
 }
 image = Image.open('Data_Analyser-main/auto-ra-banner.png')
 st.image(image)
